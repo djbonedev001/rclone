@@ -1,6 +1,6 @@
 [<img src="https://rclone.org/img/logo_on_light__horizontal_color.svg" width="50%" alt="rclone logo">](https://rclone.org/)
 
-[Website](https://rclone.org) |
+[Website](https://rclone.org) | 
 [Documentation](https://rclone.org/docs/) |
 [Download](https://rclone.org/downloads/) | 
 [Contributing](CONTRIBUTING.md) |
